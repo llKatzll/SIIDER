@@ -20,7 +20,7 @@ public class SlideNote : MonoBehaviour
     {
         if (other.CompareTag("HitZone"))
         {
-            // 슬라이드 노트가 히트존에 도달했을 때의 처리 로직
+            // 슬라이드 노트가 히트존에 도달했을 때의 처리 로직..
         }
     }
 }
